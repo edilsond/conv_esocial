@@ -1,0 +1,6 @@
+p312
+arquivos/
+*.xlsx
+build/
+dist/
+*.spec
