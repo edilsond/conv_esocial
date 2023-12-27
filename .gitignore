@@ -4,3 +4,4 @@ arquivos/
 build/
 dist/
 *.spec
+.gitignore
